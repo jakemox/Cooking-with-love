@@ -1,0 +1,33 @@
+// Your own styles
+body {
+    font-family: 'Exo 2', sans-serif;
+}
+
+.jumbotron {
+    background: url('/img/banner.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    margin-bottom: 0;
+}
+
+.display-1 {
+    font-family: 'Exo 2', sans-serif;
+    font-weight: 900;
+}
+
+.col-md-4 .img-fluid {
+    height: 180px;
+    width: 180px;
+}
+
+.img-fluid {
+    height: 100%;
+}
+
+.top-buffer {
+    margin-top: 20px;
+}
+
+
+
